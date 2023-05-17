@@ -1,24 +1,8 @@
 - 👋 Hi, I’m @Zteelghost
-- 👀 I’m interested in learning various computer programming languages.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on projects in the future. For now i am dedicated to learning C++.
-- 📫 How to reach me, send me a msg.
-
-- Programming languages im going to learn/learned already: 
-
-C: learned.
-
-C++: in progress.
-
-Java: not yet.
-
-Python: not yet.
-
-C#: not yet.
-
-Ruby: not yet.
-
-Golang: not yet.
+- 👀 I’m interested in learning, and getting a job in C++ development.
+- I am focusing on sharpening my skills in C++. I am currently \n
+learning Assembly on the side.
+- 📫 How to reach me, send me a message.
 
 
 <!---
