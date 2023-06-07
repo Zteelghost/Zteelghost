@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zteelghost
 - 👀 I’m interested in learning, and getting a job in C++ development.
-- I am focusing on sharpening my skills in C++. I am currently \n
-learning Assembly on the side.
+- I am focusing on sharpening my skills in C++.
 - 📫 How to reach me, send me a message.
 
 
