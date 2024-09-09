@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Zteelghost
-- 👀 I’m interested in learning, and getting a job in C++ development.
-- I am focusing on sharpening my skills in C++.
-- 📫 How to reach me, send me a message.
+- I’m @Zteelghost
+- I’m interested in learning, and getting a career as a software developer.
+- I am focusing on sharpening my skills in Java, and general understanding of programming. 
+Im a little ADHD at times, but im getting there.
+- How to reach me, send me a message.
 
 
 <!---
