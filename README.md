@@ -1,8 +1,6 @@
 - I’m @Zteelghost
-- I’m interested in learning, and getting a career as a software developer.
-- I am focusing on sharpening my skills in Java, and general understanding of programming. 
-Im a little ADHD at times, but im getting there.
-- How to reach me, send me a message.
+- After having a scare with cancer I've decided that now is the best time to do what I really want to do with my life, and for a career that would be a software developer of some kind. Please join me in my journey, and watch as I make my dreams a reality.
+- - How to reach me, send me a message. I may not get back to you as soon as possible, but I will get back to you.
 
 
 <!---
